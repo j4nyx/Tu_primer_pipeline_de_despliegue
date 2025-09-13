@@ -1,16 +1,13 @@
 git checkout develop
 git pull origin develop
 git checkout -b feature/authentication
-(hacer cambios, editar archivos)
-git add .
-git commit -m "feat(auth): add login endpoint"
-git push -u origin feature/authentication
 
+#ojala nos vaya bien 
 # Tu_primer_pipeline_de_despliegue
 Evaluación Parcial N°1 Javiera aguirre Elias delgado
 
 #elegimos GitFlow es un concepto:
-el cual nos sirvio mas por el echo de que se guia por ciertas ramas, no es tan directo como o trunk-based development, el cual tiene distintas ramas que son mas rectas(llegan mas rapido a un punto, pero saltandose datos importantes a nuestro parecer).
+el cual nos sirvio mas por el hecho de que se guia por ciertas ramas, no es tan directo como o trunk-based development, el cual tiene distintas ramas que son mas rectas(llegan mas rapido a un punto, pero saltandose datos importantes a nuestro parecer).
 
 
 
