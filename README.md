@@ -11,12 +11,7 @@ Incluye documentación con **Swagger UI**, conexión a **Oracle Database** y sop
 ---
 
 ## Tecnologías utilizadas
-- Java 17
-- Spring Boot 3.x
-- Maven
-- Oracle SQL
-- Swagger / OpenAPI
-- JUnit 5
+
 - python
 
 ---
