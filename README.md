@@ -1,7 +1,6 @@
 # Tu_primer_pipeline_de_despliegue
 Evaluación Parcial N°1 Javiera aguirre Elias delgado
 
-![CI](https://github.com/j4nyx/Tu_primer_pipeline_de_despliegue/actions/workflows/ci.yml/badge.svg)
 
 
 #elegimos GitFlow es un concepto:
