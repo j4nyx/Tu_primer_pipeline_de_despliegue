@@ -1,4 +1,4 @@
----<<<<<<< j4nyx-feature-1
+--- j4nyx-feature-1
 Simulan un desarrollo colaborativo integrando al menos 2 cambios tipo feature y 1 tipo hotfix mediante pull requests. ===> Check.
 
 =======
@@ -15,8 +15,7 @@ Evaluación Parcial N°1 Javiera aguirre Elias delgado
 #elegimos GitFlow es un concepto:
 
 
-
-> **Nota:** Estas convenciones pueden evolucionar; este documento debe actualizarse si el equipo acuerda nuevos flujos o estrategias.
+**Nota:** Estas convenciones pueden evolucionar; este documento debe actualizarse si el equipo acuerda nuevos flujos o estrategias.
 
 
 #  Ventas API
