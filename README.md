@@ -10,9 +10,13 @@ git checkout -b feature/authentication
 # Tu_primer_pipeline_de_despliegue
 Evaluación Parcial N°1 Javiera aguirre Elias delgado
 
-#elegimos GitFlow es un concepto:
-el cual nos sirvio mas por el hecho de que se guia por ciertas ramas, no es tan directo como o trunk-based development, el cual tiene distintas ramas que son mas rectas(llegan mas rapido a un punto, pero saltandose datos importantes a nuestro parecer).
 
+
+#elegimos GitFlow es un concepto:
+
+
+
+> **Nota:** Estas convenciones pueden evolucionar; este documento debe actualizarse si el equipo acuerda nuevos flujos o estrategias.
 
 
 #  Ventas API

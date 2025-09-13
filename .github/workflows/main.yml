@@ -1,0 +1,21 @@
+name: CI Básico
+
+on:
+  push:
+    branches: [develop]
+  pull_request:
+    branches: [main]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del código
+        uses: actions/checkout@v4
+
+      - name: Salud del runner
+        run: |
+          echo "Repo: $GITHUB_REPOSITORY"
+          echo "Rama: $GITHUB_REF_NAME"
+          python3 --version
+          node -v || true
