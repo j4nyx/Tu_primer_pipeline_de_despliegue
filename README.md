@@ -1,3 +1,7 @@
+---<<<<<<< j4nyx-feature-1
+Simulan un desarrollo colaborativo integrando al menos 2 cambios tipo feature y 1 tipo hotfix mediante pull requests.
+
+=======
 git checkout develop
 git pull origin develop
 git checkout -b feature/authentication
@@ -136,4 +140,6 @@ El historial de cambios está documentado en [CHANGELOG.md](CHANGELOG.md).
 ##  Licencia
 Este proyecto está bajo la licencia MIT.  
 Consulta el archivo [LICENSE.md](LICENSE.md) para más detalles.
+->>>>>>> feature/javiera
 
+#1 feature echo!
