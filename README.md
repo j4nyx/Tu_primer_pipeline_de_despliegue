@@ -1,6 +1,9 @@
 # Tu_primer_pipeline_de_despliegue
 Evaluación Parcial N°1 Javiera aguirre Elias delgado
 
+![CI](https://github.com/j4nyx/Tu_primer_pipeline_de_despliegue/actions/workflows/ci.yml/badge.svg)
+
+
 #elegimos GitFlow es un concepto:
 el cual nos sirvio mas por el echo de que se guia por ciertas ramas, no es tan directo como o trunk-based development, el cual tiene distintas ramas que son mas rectas(llegan mas rapido a un punto, pero saltandose datos importantes a nuestro parecer).
 ---
