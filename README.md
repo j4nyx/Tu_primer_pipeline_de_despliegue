@@ -1,5 +1,5 @@
 ---<<<<<<< j4nyx-feature-1
-Simulan un desarrollo colaborativo integrando al menos 2 cambios tipo feature y 1 tipo hotfix mediante pull requests.
+Simulan un desarrollo colaborativo integrando al menos 2 cambios tipo feature y 1 tipo hotfix mediante pull requests. ===> Check.
 
 =======
 git checkout develop
