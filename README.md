@@ -17,6 +17,7 @@ Incluye documentación con **Swagger UI**, conexión a **Oracle Database** y sop
 - Oracle SQL
 - Swagger / OpenAPI
 - JUnit 5
+- python
 
 ---
 
