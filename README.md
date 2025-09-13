@@ -1,10 +1,29 @@
---- j4nyx-feature-1
-Simulan un desarrollo colaborativo integrando al menos 2 cambios tipo feature y 1 tipo hotfix mediante pull requests. ===> Check.
+Este repositorio corresponde a la **Evaluación Parcial 1** del ramo DOY0101.  
+En él aplicamos una estrategia de ramificación colaborativa (**GitFlow**) y un flujo básico de DevOps con GitHub Actions.
 
-=======
-git checkout develop
-git pull origin develop
-git checkout -b feature/authentication
+## Estrategia de Ramificación
+Adoptamos **GitFlow** porque:
+- Separa el código en desarrollo (`develop`) del código listo para producción (`main`).
+- Facilita la integración de nuevas funcionalidades en ramas `feature/*`.
+- Permite aplicar correcciones urgentes con ramas `hotfix/*`.
+- Favorece la trazabilidad y la colaboración en equipo mediante Pull Requests.
+
+> **Por qué no elegimos Trunk-Based**: aunque es ágil, requiere mayor automatización de pruebas y despliegue continuo, lo que excede el alcance de esta evaluación académica.
+
+### Flujo GitFlow
+```text
+         +----------+
+         |  main    |
+         +----------+
+             ^
+             | (release / hotfix)
+         +----------+
+         | develop  |
+         +----------+
+           ^      ^
+           |      |
+    feature/javiera   feature/elias
+
 
 #ojala nos vaya bien 
 # Tu_primer_pipeline_de_despliegue
